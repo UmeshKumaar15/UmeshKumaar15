@@ -14,8 +14,7 @@ I'm always interested in exploring new ideas and working on exciting projects.
 
 Thank you for visiting my GitHub profile. I look forward to connecting with you!
 
-
-![Visits Badge](https://badges.pufler.dev/visits/UmeshKumaar15/UmeshKumaar15)
+![](https://komarev.com/ghpvc/?username=UmeshKumaar15&color=green)
 <!---
 UmeshKumaar15/UmeshKumaar15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
